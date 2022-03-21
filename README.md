@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 - 🔭 I’m currently working on how to create Android Apps!
