@@ -1,6 +1,5 @@
 ###
 - 🔭 I’m currently working on Android Apps!
-- 🌱 I’m currently learning C#, Python!
-- 🤔 I’m looking for help with Android App Development!
+- 🌱 I’m currently learning C# and Unity Engine
 - ⚡ I do reading books about philosophy!
 
