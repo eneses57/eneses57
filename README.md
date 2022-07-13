@@ -1,5 +1,5 @@
 ###
-- 🔭 I’m currently working on Android Apps!
-- 🌱 I’m currently learning C# and Unity Engine
+
+- 🌱 I’m currently learning C#, Unity Engine and Blender
 - ⚡ I do reading books about philosophy!
 
